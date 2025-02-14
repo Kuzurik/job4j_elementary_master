@@ -10,6 +10,10 @@ public class Calculator {
         int sixDivTwo = six / two;
         int fiveMinusTwo = five - two;
         int fourTimeTwo = four * two;
+        int age = 18;
+        System.out.println(age);
+        age = 19;
+        System.out.println(age);
         System.out.println(sixDivTwo);
         System.out.println(fiveMinusTwo);
         System.out.println(fourTimeTwo);
